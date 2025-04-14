@@ -2,6 +2,7 @@ def fibonacci(n):
     """Generate the Fibonacci sequence up to the nth number."""
     print("---")
     sequence = []
+    print("---")
     a, b = 0, 1
     for _ in range(n):
         sequence.append(a)
